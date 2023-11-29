@@ -13,16 +13,16 @@ Temas:
 
 ## Sobre
 
-<!-- Resolução dos exercícios do Beecrowd e LeetCode. -->
+Resolução dos exercícios do LeetCode.
 
-> []()<br> 
+> [300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)<br> 
 > []()<br> 
 > []()<br> 
 > []()
 
 ## Screenshots
 
-![]()
+![300. Longest Increasing Subsequence](./300/300.png)
 ![]()
 ![]()
 ![]()
@@ -47,7 +47,7 @@ E executar os seguintes comandos dentro da pasta do arquivo pelo terminal:
 
 Outra forma é subtmeter os códigos dos exercícios pelo juiz online:
 
-- []()
+- [300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/description/)
 - []()
 - []()
 - []()
