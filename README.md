@@ -67,5 +67,5 @@ Outra forma é subtmeter os códigos dos exercícios pelo juiz online:
 
 ## Outros
 
-[Vídeo de apresentação]()
+[Vídeo de apresentação Parte 1](https://youtu.be/q4rip_Xj9OY)
 
