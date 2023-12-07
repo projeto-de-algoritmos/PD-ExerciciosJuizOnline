@@ -18,7 +18,7 @@ Resolução dos exercícios do LeetCode.
 > [300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)<br>
 > [787. Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/description/)<br>
 > [873. Length of Longest Fibonacci Subsequence](https://leetcode.com/problems/length-of-longest-fibonacci-subsequence/)<br>
-> []()
+> [1235. Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/description/)
 
 ## Screenshots
 
@@ -33,7 +33,10 @@ Resolução dos exercícios do LeetCode.
 ### 873. Length of Longest Fibonacci Subsequence
 
 ![873. Length of Longest Fibonacci Subsequence](./873/873.png)
-![]()
+
+### 1235. Maximum Profit in Job Scheduling
+
+![1235. Maximum Profit in Job Scheduling](./1235/1235.PNG)
 
 ## Instalação
 
@@ -58,11 +61,11 @@ Outra forma é subtmeter os códigos dos exercícios pelo juiz online:
 - [300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/description/)
 - [787. Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/description/)
 - [873. Length of Longest Fibonacci Subsequence](https://leetcode.com/problems/length-of-longest-fibonacci-subsequence/description/)
-- []()
+- [1235. Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/description/)
 
 **Observação**: para os exercícios feitos no LeetCode é necessário submete-los diretamente no juiz online.
 
 ## Outros
 
 [Vídeo de apresentação]()
-F
+
